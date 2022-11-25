@@ -1,8 +1,6 @@
 # ToonTank
-I made on Unreal Engine 5 with C++
-
-# ToonTank
-I made on Unreal Engine 5 with C++
+Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
+projenin başlangıcını yapıtğım kurs
 
 You can watch here game video : https://www.youtube.com/watch?v=l61VqNhblEk&ab_channel=EscanDNMZ
 
